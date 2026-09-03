@@ -10,7 +10,12 @@
     "start": "node dist/index.js",
     "typecheck": "tsc --noEmit"
   },
-  "keywords": ["express", "typescript", "postgresql", "mongodb"],
+  "keywords": [
+    "express",
+    "typescript",
+    "postgresql",
+    "mongodb"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
